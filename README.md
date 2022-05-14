@@ -1,3 +1,3 @@
 ### Test Repo
-ABCDEFCGDRGR
+ABCDE
 
